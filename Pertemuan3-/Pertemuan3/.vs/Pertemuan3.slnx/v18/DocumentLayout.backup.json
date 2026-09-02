@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\MATA KULIAH\\SEMESTER 5\\PEM VISUAL\\pemograman-visual\\Pertemuan3-\\Pertemuan3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E5968-7ED0-1140-23A1-FFD07A3598F7}|Pertemuan3\\Pertemuan3.vbproj|d:\\mata kuliah\\semester 5\\pem visual\\pemograman-visual\\pertemuan3-\\pertemuan3\\pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{9B5E5968-7ED0-1140-23A1-FFD07A3598F7}|Pertemuan3\\Pertemuan3.vbproj|solutionrelative:pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9B5E5968-7ED0-1140-23A1-FFD07A3598F7}|Pertemuan3\\Pertemuan3.vbproj|d:\\mata kuliah\\semester 5\\pem visual\\pemograman-visual\\pertemuan3-\\pertemuan3\\pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{9B5E5968-7ED0-1140-23A1-FFD07A3598F7}|Pertemuan3\\Pertemuan3.vbproj|solutionrelative:pertemuan3\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\MATA KULIAH\\SEMESTER 5\\PEM VISUAL\\pemograman-visual\\Pertemuan3-\\Pertemuan3\\Pertemuan3\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan3\\Form1.vb",
+              "ToolTip": "D:\\MATA KULIAH\\SEMESTER 5\\PEM VISUAL\\pemograman-visual\\Pertemuan3-\\Pertemuan3\\Pertemuan3\\Form1.vb",
+              "RelativeToolTip": "Pertemuan3\\Form1.vb",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwBQAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-01T03:46:09.157Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.vb [Design]",
+              "DocumentMoniker": "D:\\MATA KULIAH\\SEMESTER 5\\PEM VISUAL\\pemograman-visual\\Pertemuan3-\\Pertemuan3\\Pertemuan3\\Form1.vb",
+              "RelativeDocumentMoniker": "Pertemuan3\\Form1.vb",
+              "ToolTip": "D:\\MATA KULIAH\\SEMESTER 5\\PEM VISUAL\\pemograman-visual\\Pertemuan3-\\Pertemuan3\\Pertemuan3\\Form1.vb [Design]",
+              "RelativeToolTip": "Pertemuan3\\Form1.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2026-09-02T00:55:09.066Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

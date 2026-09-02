@@ -1,0 +1,6 @@
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.Form1.resources
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.vbproj.GenerateResource.cache
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.GeneratedMSBuildEditorConfig.editorconfig
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.AssemblyInfoInputs.cache
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.AssemblyInfo.vb
+D:\MATA KULIAH\SEMESTER 5\PEM VISUAL\pemograman-visual\Pertemuan3-\Pertemuan3\Pertemuan3\obj\Debug\net10.0-windows\Pertemuan3-Operator-Struktur-Kendali.vbproj.CoreCompileInputs.cache
